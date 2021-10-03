@@ -13,10 +13,9 @@ Physics:
         
     Chap2 shockwaves:
       Theory:
-        # Reddy Tube, diagram, working, chars
-        # Reddy Tube numericals
+        Reddy Tube, diagram, working, chars
         Difference between shockwaves, examples
         Define Shockwavesm properties & Application of Shockwaves
       Numericals:
-        # mach number
+        mach number
         # Reddy Tube numericals
