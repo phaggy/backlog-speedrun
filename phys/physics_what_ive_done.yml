@@ -6,10 +6,10 @@ Physics:
         # theory of forced vibrations, derivation of steady state amplitude & phase angle
         force constant, force constant derivation for spring in series and parallel, period of oscillation
       Numericals:
-        # Decaying of oscillation
-        # Time period of SHM body 
-        # Value of damping (critically damped)
-        # Resonant frequency
+        Decaying of oscillation
+        Time period of SHM body 
+        Value of damping (critically damped)
+        Resonant frequency
         
     Chap2 shockwaves:
       Theory:
