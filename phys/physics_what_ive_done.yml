@@ -1,0 +1,22 @@
+Physics:
+  Module 1:
+    Chap1 osci & waves:
+      Theory:
+        definition of shm, chars, derivation using Hooke's law
+        # theory of forced vibrations, derivation of steady state amplitude & phase angle
+        force constant, force constant derivation for spring in series and parallel, period of oscillation
+      Numericals:
+        # Decaying of oscillation
+        # Time period of SHM body 
+        # Value of damping (critically damped)
+        # Resonant frequency
+        
+    Chap2 shockwaves:
+      Theory:
+        # Reddy Tube, diagram, working, chars
+        # Reddy Tube numericals
+        # Difference between shockwaves, examples
+        # Define Shockwaves & Application of Shockwaves
+      Numericals:
+        # mach number
+        # Reddy Tube numericals
