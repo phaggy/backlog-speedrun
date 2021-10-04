@@ -23,15 +23,15 @@ Physics:
   Module 2:
     Elastic properties of materials:
       Theory:
-        # state and explain hooke's law, explain nature of elasticity with stress-strain diagram/explain plastic and elastic limits
-        # define young's modulus, derive young's modulus of a beam using single cantilever
+        state and explain hooke's law, explain nature of elasticity with stress-strain diagram/explain plastic and elastic limits
+        define young's modulus, # derive young's modulus of a beam using single cantilever
         # define bending moment, derive expression for bending moment in terms of inertia
         # types of elastic moduli, derive relation between Y,K(bulk's modulus) and sigma
-        # define poisson's ratio, obtain relation between y,n and sigma
-        # what are torsional oscillations, mention applications of torsional pendulum, derive expression for couple per unit twist of solid cylinder
+        define poisson's ratio, # obtain relation between y,n and sigma
+        what are torsional oscillations, mention applications of torsional pendulum, # derive expression for couple per unit twist of solid cylinder
       Numericals:
-        # calculate extension produced, force require to produce extension
-        # calculate angular twist, torque required to twist
+        calculate extension produced, force require to produce extension
+        calculate angular twist, torque required to twist
   Module 3:
     chap4:
       Theory:
