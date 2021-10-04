@@ -1,6 +1,6 @@
 Physics:
   Module 1:
-    Chap1 osci & waves:
+    Chap1 osci and waves:
       Theory:
         definition of shm, chars, derivation using Hooke's law
         # theory of forced vibrations, derivation of steady state amplitude & phase angle
@@ -19,3 +19,31 @@ Physics:
       Numericals:
         mach number
         # Reddy Tube numericals
+        #
+  Module 2:
+    Elastic properties of materials:
+      Theory:
+        # state and explain hooke's law, explain nature of elasticity with stress-strain diagram/explain plastic and elastic limits
+        # define young's modulus, derive young's modulus of a beam using single cantilever
+        # define bending moment, derive expression for bending moment in terms of inertia
+        # types of elastic moduli, derive relation between Y,K(bulk's modulus) and sigma
+        # define poisson's ratio, obtain relation between y,n and sigma
+        # what are torsional oscillations, mention applications of torsional pendulum, derive expression for couple per unit twist of solid cylinder
+      Numericals:
+        # calculate extension produced, force require to produce extension
+        # calculate angular twist, torque required to twist
+  Module 3:
+    chap4:
+      Theory:
+        # gauss divergence theorem state and prove/ mention stoke's theorem
+        # state and explain Maxwell's equations for electromagnetic field, deduce wave eq for plane in free space
+      Numericals:
+        # magnetic field at center and distance from center
+        # determine C such that eq. is soleneoidal
+    chap5:
+      Theory:
+        define fractional index, derive expression for numerical aperture and acceptance angle of optical fibre
+        define numerical aperture, derive equation for it
+        types of optical fibres with diagrams # explain types of fiber loses/
+      Numericals:
+        Calculate V number, also calculate number of modes it can support
