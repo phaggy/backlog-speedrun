@@ -35,11 +35,11 @@ Physics:
   Module 3:
     chap4:
       Theory:
-        # gauss divergence theorem state and prove/ mention stoke's theorem
-        # state and explain Maxwell's equations for electromagnetic field, deduce wave eq for plane in free space
+        gauss divergence theorem state and prove it #/ mention stoke's theorem
+        state and explain Maxwell's equations for electromagnetic field, deduce wave eq for plane in free space
       Numericals:
         # magnetic field at center and distance from center
-        # determine C such that eq. is soleneoidal
+        determine C such that eq. is soleneoidal
     chap5:
       Theory:
         define fractional index, derive expression for numerical aperture and acceptance angle of optical fibre
