@@ -1,0 +1,52 @@
+ELE:
+  MOD1:
+    chap1:
+      Theory:
+        # State and explain kirchoffs laws(KVL/KCL)
+        # State and explain Ohm's law and limitations with illustration
+      Numericals:
+        # KVL-KCL numericals
+    chap2:
+      Theory:
+        # phasor representation of alternating quantities
+        # Define rms value, obtain relation between rms/max - max/avg value
+        # Define form factor and peak factor, derive both
+        # Define *instantanous-value *frequency *Time-period *form-factor *peak-factor
+      Numericals:
+        # AC-DC numericals
+  MOD2:
+    chap3:
+      Theory:
+        # prove that pure capacitor does not consume power/derive power in pure capacitor
+        # draw voltage power, current and power waveforms
+        # define power factor, metion its physical importance
+        # derive power in series circuit
+        # show that in a pure inductor current lags behind voltage by 90deg
+        # show that voltage and current are in phase in resistive circuit and P = Irms * Voltage
+        # Obtain behaviour of current voltage and power in pure inductor circuit
+      Numericals:
+        # generic 1phase numericals
+    chap4:
+      Theory:
+        # advantages of 3-ph over 1-ph
+        # derive relation between line current/voltage and phase current/voltage in 3-ph delta/star
+        # show that 2 wattmeters are enough to measure total power and power factor in balanced 3-ph (do 2 wattmeter shit properly, diagrams and all)
+        # derive 3-ph power && power factor
+      Numericals:
+        # generic 3-ph numericals + 2 wattmeter numericals
+  MOD3:
+    chap5:
+      Theory:
+        # explain various loses in transformer, how can they be minimized
+        # derive emf equation of transformer
+        # derive condition for maximum efficiency
+        # explain construction, working of transformer
+      Numericals:
+        # efficiency numericals
+        # avg transformer numericals, flux density
+    chap6:
+      Theory:
+        # Explain electric shock
+        # Earthing, explain plate/pipe earthing 
+        # explain *fuse *mcb *precautions-against-electric-shock
+        # explain 2-way 3-way lamp with truth table
