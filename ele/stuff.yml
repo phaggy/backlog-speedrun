@@ -2,16 +2,16 @@ ELE:
   MOD1:
     chap1:
       Theory:
-        # State and explain kirchoffs laws(KVL/KCL)
-        # State and explain Ohm's law and limitations with illustration
+        State and explain kirchoffs laws(KVL/KCL)
+        State and explain Ohm's law and limitations with illustration
       Numericals:
         # KVL-KCL numericals
     chap2:
       Theory:
         # phasor representation of alternating quantities
-        # Define rms value, obtain relation between rms/max - max/avg value
-        # Define form factor and peak factor, derive both
-        # Define *instantanous-value *frequency *Time-period *form-factor *peak-factor
+        Define rms value, obtain relation between rms/max - max/avg value
+        Define form factor and peak factor, derive both
+        Define *instantanous-value *frequency *Time-period *form-factor *peak-factor
       Numericals:
         # AC-DC numericals
   MOD2:
@@ -38,15 +38,15 @@ ELE:
     chap5:
       Theory:
         # explain various loses in transformer, how can they be minimized
-        # derive emf equation of transformer
+        derive emf equation of transformer
         # derive condition for maximum efficiency
         # explain construction, working of transformer
       Numericals:
-        # efficiency numericals
-        # avg transformer numericals, flux density
+        efficiency numericals
+        avg transformer numericals, flux density
     chap6:
       Theory:
-        # Explain electric shock
-        # Earthing, explain plate/pipe earthing 
+        Explain electric shock
+        Earthing, explain plate/pipe earthing 
         # explain *fuse *mcb *precautions-against-electric-shock
         # explain 2-way 3-way lamp with truth table
